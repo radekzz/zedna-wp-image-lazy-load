@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zedna WP Image Lazy Load\n"
+"POT-Creation-Date: 2019-07-30 14:53+0200\n"
+"PO-Revision-Date: 2019-07-30 14:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: image_lazy_load.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: image_lazy_load.php:133
+msgid "WP Image Lazy Load Settings page"
+msgstr "WP Image Lazy Load nastavení"
+
+#: image_lazy_load.php:133 image_lazy_load.php:164
+msgid "WP Image Lazy Load Settings"
+msgstr "WP Image Lazy Load Nastavení"
+
+#: image_lazy_load.php:166
+msgid "Setting of your WP Image Lazy Load plugin"
+msgstr "Nastavení vašeho pluginu WP Image Lazy Load"
+
+#: image_lazy_load.php:172
+msgid "Skip iframes:"
+msgstr "Přeskočit vnořené rámce:"
+
+#: image_lazy_load.php:177 image_lazy_load.php:180 image_lazy_load.php:193
+#: image_lazy_load.php:196 image_lazy_load.php:248 image_lazy_load.php:251
+msgid "No"
+msgstr "Ne"
+
+#: image_lazy_load.php:178 image_lazy_load.php:181 image_lazy_load.php:194
+#: image_lazy_load.php:197 image_lazy_load.php:249 image_lazy_load.php:252
+msgid "Yes"
+msgstr "Ano"
+
+#: image_lazy_load.php:188
+msgid "Skip videos:"
+msgstr "Přeskočit videa:"
+
+#: image_lazy_load.php:205
+msgid ""
+"Skip images in parent element (<strong>css class without dot \".\"</strong>):"
+msgstr ""
+"Přeskočit obrázky v nadřazeném elementu (<strong>css třída bez tečky \".\"</"
+"strong>):"
+
+#: image_lazy_load.php:208 image_lazy_load.php:216
+msgid ""
+"For no skipping, leave empty. Multiple classes split by semicolon (e.g. "
+"classOne;classTwo)"
+msgstr ""
+"Ponechte prázdné pro žádné vynechání. Více css tříd oddělte středníkem "
+"(např. tridaJedna;tridaDve)"
+
+#: image_lazy_load.php:213
+msgid ""
+"Skip iframes in parent element (<strong>css class without dot \".\"</"
+"strong>):"
+msgstr ""
+"Přeskočit vnořené rámce v nadřazeném elementu (<strong>css třída bez tečky "
+"\".\"</strong>):"
+
+#: image_lazy_load.php:220
+msgid "Example of use parent element:"
+msgstr "Příklad použití nadřazeného elementu:"
+
+#: image_lazy_load.php:229
+msgid " In options field insert <code class=\"html\">parent</code>"
+msgstr " V poli nastavení vložte <code class=\"html\">nadřazený</code>"
+
+#: image_lazy_load.php:234
+msgid "Load elements on custom position:"
+msgstr "Načíst elementy na vlastní pozici:"
+
+#: image_lazy_load.php:243
+msgid "Use animations:"
+msgstr "Použít animace:"
+
+#: image_lazy_load.php:254
+msgid "(excluding background images)"
+msgstr "(kromě obrázků na pozadí)"
+
+#: image_lazy_load.php:258
+msgid "Animation duration:"
+msgstr "Dobra trvání animace:"
+
+#: image_lazy_load.php:263
+msgid "Animation timing:"
+msgstr "Časování animace:"
+
+#: image_lazy_load.php:306
+msgid "Modify theme files to be lazy loaded"
+msgstr "Upravit soubory šablony aby byly obrázky načítány postupně"
+
+#: image_lazy_load.php:307
+msgid ""
+"This plugin is using JS lazy loading but also PHP img source blocking in "
+"content, if you want to use it also in your theme files, you can modify "
+"<i>&lt;img&gt;</i> tags in your theme files to be lazy loaded by PHP."
+msgstr ""
+"Tento plugin využívá JS k pozvolnému načítání, ale také PHP pro blokování "
+"zdrojů obrázků v obsahu, pokud chcete tuto funkci využít také v souborech "
+"vaší šablony, můžete upravit <i>&lt;img&gt;</i> v jejích souborech."
+
+#: image_lazy_load.php:308
+msgid ""
+"If you will get an error, you should check CHMOD is set to <i>read-write</i> "
+"rights."
+msgstr ""
+"Pokud se objeví chyba, zkontrolujte, že jsou CHMOD práva k souborům s "
+"oprávněním <i>čtení-zápis</i>."
+
+#: image_lazy_load.php:309
+msgid ""
+"This action is revertable, but we <b>recommend</b> to backup your files "
+"first."
+msgstr ""
+"Tato akce je vratná, ale  <b>doporučujeme</b> předtím zálohovat vaše soubory."
+
+#: image_lazy_load.php:330
+msgid "If you like this plugin, please donate us for faster upgrade"
+msgstr "Pokud se vám plugin líbí, můžete nám přispět na další vývoj"
+
+#. Plugin Name of the plugin/theme
+msgid "Zedna WP Image Lazy Load"
+msgstr "Zedna WP Image Lazy Load"
+
+#. Plugin URI of the plugin/theme
+msgid "https://profiles.wordpress.org/zedna#content-plugins"
+msgstr "https://profiles.wordpress.org/zedna#content-plugins"
+
+#. Description of the plugin/theme
+msgid ""
+"Image lazy load plugin to boost page load time and save bandwidth by "
+"removing all the images, background-images, responsive images, iframes and "
+"videos. Elements will load just when reach visible part of screen. Lazy "
+"loading can be also applied on themes."
+msgstr ""
+"Image lazy load plugin pro zrychlení načítání stránky a úsporu načtených dat "
+"odstraněním obrázků, obrázků na pozadí, responsivních obrázků, vnořených "
+"rámců a videí. Elementy se budou načítat pouze tehdy, pokud uživatel dosáhne "
+"úrovně na viditelném místě obrazovky."
+
+#. Author of the plugin/theme
+msgid "Radek Mezulanik"
+msgstr "Radek Mezuláník"
+
+#. Author URI of the plugin/theme
+msgid "https://cz.linkedin.com/in/radekmezulanik"
+msgstr "https://cz.linkedin.com/in/radekmezulanik"
